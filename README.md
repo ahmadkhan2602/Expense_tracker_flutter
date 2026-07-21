@@ -23,7 +23,8 @@ flutter run
 
 
 ## APK
-Built APK available in `build/app/outputs/flutter-apk/app-release.apk`
+Built APK available in Release
+
 
 ## Author
 Ahmad Khan
