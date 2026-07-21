@@ -1,17 +1,29 @@
-# my_expense_app
+# Expense Tracker Flutter App
 
-A new Flutter project.
+A beautiful, simple expense tracking app built with Flutter.
 
-## Getting Started
+## Features
+- Add expenses by category (Food, Transport, Shopping, Bills, Entertainment)
+- Custom category names
+- Date picker for each expense
+- Optional details/notes for expenses
+- Filter by: Today, Yesterday, This Month, Last Month
+- Delete expenses
+- Total spending display
+- Responsive UI with gradient cards
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## APK
+Built APK available in `build/app/outputs/flutter-apk/app-release.apk`
+
+## Author
+Ahmad Khan
